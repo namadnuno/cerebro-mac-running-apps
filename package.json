@@ -1,5 +1,5 @@
 {
-  "name": "mac-running-apps",
+  "name": "cerebro-mac-running-apps",
   "version": "0.1.0",
   "dependencies": {
     "cerebro-tools": "^0.1.8",
@@ -21,3 +21,4 @@
     "prepublish": "yarn clear && yarn build"
   }
 }
+
